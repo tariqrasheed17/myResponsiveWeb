@@ -27,7 +27,7 @@ html,body{
 .top{
     width: 100%;
     min-height: 60vh;
-    background-image: url("man2.jpg");
+    background-image: url("man2.webp");
     background-position: 50% 60%;
     background-size: cover;
 }
@@ -136,7 +136,7 @@ font-size: 2.5vw;
 .btwo{
     width: 25%;
     min-height:inherit;
-    background-image: url("man1.jpg");
+    background-image: url("man1.webp");
     background-position: center;
     background-size: cover;
 }
@@ -166,7 +166,7 @@ font-size: 2.5vw;
 .bthreeBtm{
     width: 100%;
     min-height: 20vh;
- background-image: url("camp.jpg");
+ background-image: url("camp.webp");
  background-position: center;
     background-size: cover;
 }
